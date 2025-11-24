@@ -31,7 +31,8 @@ Booth’s multiplication algorithm is an efficient way to perform **signed integ
 
 ## Flow Chart
 
-![image](https://github.com/user-attachments/assets/a34dd25e-3043-4243-81a5-567165d3f4b2)
+<img width="683" height="721" alt="image" src="https://github.com/user-attachments/assets/2c3a2e66-2f9a-45c7-80da-93e27d9f51e1" />
+
 
 
 ## Verilog Code for Booth Multiplier
@@ -161,15 +162,16 @@ endmodule
 ```
 ## Truth Table for Booth Multiplier (Example)
 
-![image](https://github.com/user-attachments/assets/742744b0-15e9-4c7c-8e0e-13a77f25673e)
+<img width="940" height="183" alt="image" src="https://github.com/user-attachments/assets/bc7dae3c-a07a-43d4-aca3-259feac01c32" />
+
 
 ## Nclaunch Work Library Window
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/2e369289-f9c0-4533-a515-71b07f20cd2f" />
 
-![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
+<img width="1402" height="453" alt="image" src="https://github.com/user-attachments/assets/fc207f5e-1db2-4e0a-9425-31cb5b83f2f5" />
 
 
 ## Results
